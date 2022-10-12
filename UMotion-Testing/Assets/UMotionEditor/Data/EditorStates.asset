@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GeneralStates:
     LoadedProjectGUID:
-      valueInternal: 9017cdb3f60b51f4e8dcd5b35f813582
+      valueInternal: 
     RecentlyOpenedProjectPath:
-      valueInternal: Assets
+      valueInternal: Assets\AnimeGirls
     RecentlyOpenedProjectGUIDsList:
     - valueInternal: 9017cdb3f60b51f4e8dcd5b35f813582
